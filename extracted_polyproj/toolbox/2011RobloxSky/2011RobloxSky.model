@@ -1,0 +1,125 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "Ungroup Me",
+      "ClassName": "Model",
+      "ID": "2ee0450d-8aaa-4754-8d9b-ba35cb6ac5ce",
+      "Properties": {
+        "LocalPosition": [
+          4,
+          0.5,
+          -4
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "2011 Roblox Sky",
+          "ClassName": "ImageSky",
+          "ID": "c4272155-5864-46ca-9a3f-950a3ed219f3",
+          "Properties": {
+            "TopImage": "9f84570b-cbf9-4482-9e1a-0dd2ead365bc",
+            "BottomImage": "48545cb4-84df-4a19-a5c9-c5a753d5dd0c",
+            "LeftImage": "c113773a-d96a-42ad-adb7-2c6a992dede3",
+            "RightImage": "19f65568-140d-4e03-a763-52f2009242ad",
+            "FrontImage": "8f9c297d-cf3c-401d-9381-584537ed33c9",
+            "BackImage": "3b277a4d-5a0d-4bdd-baa6-5943184a0a66",
+            "TextureFilter": 2,
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "acc3e0e2-9e28-44b1-968d-e58d5c05a57a",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": [
+    {
+      "Name": "PTImageAsset79",
+      "ClassName": "PTImageAsset",
+      "ID": "9f84570b-cbf9-4482-9e1a-0dd2ead365bc",
+      "Properties": {
+        "ImageID": 152946,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset80",
+      "ClassName": "PTImageAsset",
+      "ID": "48545cb4-84df-4a19-a5c9-c5a753d5dd0c",
+      "Properties": {
+        "ImageID": 152940,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset81",
+      "ClassName": "PTImageAsset",
+      "ID": "c113773a-d96a-42ad-adb7-2c6a992dede3",
+      "Properties": {
+        "ImageID": 152943,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset82",
+      "ClassName": "PTImageAsset",
+      "ID": "19f65568-140d-4e03-a763-52f2009242ad",
+      "Properties": {
+        "ImageID": 152945,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset83",
+      "ClassName": "PTImageAsset",
+      "ID": "8f9c297d-cf3c-401d-9381-584537ed33c9",
+      "Properties": {
+        "ImageID": 152941,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset84",
+      "ClassName": "PTImageAsset",
+      "ID": "3b277a4d-5a0d-4bdd-baa6-5943184a0a66",
+      "Properties": {
+        "ImageID": 152939,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+-- This is the natural disaster map I made for Polytoria, It's from Stickmasterluke on roblox, also this dosen't have scripts, but, If you use this in your game, Please credit me @Sami and @Stickmasterluke
