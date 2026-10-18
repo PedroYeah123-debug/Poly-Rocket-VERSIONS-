@@ -1,0 +1,441 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "Template Map",
+      "ClassName": "Model",
+      "ID": "b9869c68-4cfe-4191-aa8f-dd5b5456bec8",
+      "Properties": {
+        "LocalPosition": [
+          43,
+          34.6758,
+          -98.4042
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "dbe84eac-b2e5-4e55-8659-8cb5346d7691",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              -34.6758,
+              -10.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              34,
+              1,
+              33
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "27862b0e-584e-4c61-91c3-412acfe97f52",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              4.9042,
+              -27.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              36,
+              80,
+              1
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "0a06ecf7-1fd8-45f6-bea8-565106d3979b",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              42.3242,
+              -10.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              34,
+              1,
+              33
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "43604a04-47c0-4213-9374-3769c66a8798",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -17.5,
+              4.9042,
+              -10.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1,
+              80,
+              33
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "bb8f2df7-673c-4554-af02-d0a64d0f14a9",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              17.5,
+              4.9042,
+              -10.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1,
+              80,
+              33
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Part",
+          "ClassName": "Part",
+          "ID": "47bc245a-55cc-45a6-a32b-a0ec6dd25533",
+          "Properties": {
+            "Color": "a3a2a5ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              4.9042,
+              6.9042
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              36,
+              80,
+              1
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "WaterPart",
+          "ClassName": "Part",
+          "ID": "cb96ed73-1ea7-438f-91b2-98d0e6708ee8",
+          "Properties": {
+            "Material": 18,
+            "Color": "1a63d6bf",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": false,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              -36.6758,
+              -10.0958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              38,
+              1,
+              37
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "FinishBrick",
+          "ClassName": "Part",
+          "ID": "eccef138-6cb5-4c05-8132-9bc8ed1c20ee",
+          "Properties": {
+            "Color": "000000ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              -14.5,
+              -29.1458,
+              -23.5958
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              5,
+              8,
+              6
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Delete me",
+          "ClassName": "Text3D",
+          "ID": "8a7128a7-861d-4e6d-a109-ef918b74e8e8",
+          "Properties": {
+            "Text": "\u003C-- This is the finish brick,\u003Cbr\u003Ewhen a player touches it,\u003Cbr\u003Ethat player wins.\u003Cbr\u003ENote: you can customize the block\u003Cbr\u003Ehowever you want,\u003Cbr\u003Ebut make sure to not rename it.",
+            "FontSize": 26,
+            "Color": "ffffffff",
+            "OutlineWidth": 0,
+            "OutlineColor": "000000ff",
+            "FaceCamera": false,
+            "HorizontalAlignment": 1,
+            "VerticalAlignment": 1,
+            "UseRichText": false,
+            "LocalPosition": [
+              0.0469,
+              -29.4258,
+              -25.5958
+            ],
+            "LocalRotation": [
+              0,
+              -180,
+              -0
+            ],
+            "LocalSize": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Delete me",
+          "ClassName": "Text3D",
+          "ID": "8864fb7e-7e58-4310-864d-147d1a82ac6b",
+          "Properties": {
+            "Text": "\u003C-- This is the water brick,\u003Cbr\u003Ewhen a player touches it,\u003Cbr\u003Ethat player loses.\u003Cbr\u003ENote: you can customize the block\u003Cbr\u003Ehowever you want,\u003Cbr\u003Ebut make sure to not rename it.",
+            "FontSize": 26,
+            "Color": "ffffffff",
+            "OutlineWidth": 0,
+            "OutlineColor": "000000ff",
+            "FaceCamera": false,
+            "HorizontalAlignment": 1,
+            "VerticalAlignment": 1,
+            "UseRichText": false,
+            "LocalPosition": [
+              -8.8842,
+              -40.4258,
+              17.3352
+            ],
+            "LocalRotation": [
+              0,
+              -270,
+              -0
+            ],
+            "LocalSize": [
+              0.5,
+              0.5,
+              0.5
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "b864f698-3f2a-4619-8190-87d95191b54b",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": []
+}

@@ -1,0 +1,125 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "null_plainsky Ungroup",
+      "ClassName": "Model",
+      "ID": "b3568e06-4caf-4c73-bfe4-c714ab2f6a06",
+      "Properties": {
+        "LocalPosition": [
+          0,
+          0,
+          0
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          0.001,
+          0.001,
+          0.001
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "null_plainsky",
+          "ClassName": "ImageSky",
+          "ID": "128e0210-fd0f-435c-8665-7c1ac01f2d43",
+          "Properties": {
+            "TopImage": "4f6c79af-9c80-4eb2-b5d4-983db02f6c4e",
+            "BottomImage": "139553ef-51ee-480d-bb95-e83852e6f0b9",
+            "LeftImage": "0f208d85-cc56-44c6-b252-cc79f7ba72c2",
+            "RightImage": "dde69f6c-cb7c-456e-adec-fe319457b7a6",
+            "FrontImage": "99d3a52a-e853-4700-a591-43cc52987c3d",
+            "BackImage": "998aa240-752b-476f-9ec8-7360417f5ff9",
+            "TextureFilter": 2,
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "19bdf7c9-f6fe-4af3-a079-323ba1293492",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": [
+    {
+      "Name": "PTImageAsset38",
+      "ClassName": "PTImageAsset",
+      "ID": "4f6c79af-9c80-4eb2-b5d4-983db02f6c4e",
+      "Properties": {
+        "ImageID": 48024,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset39",
+      "ClassName": "PTImageAsset",
+      "ID": "139553ef-51ee-480d-bb95-e83852e6f0b9",
+      "Properties": {
+        "ImageID": 48018,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset40",
+      "ClassName": "PTImageAsset",
+      "ID": "0f208d85-cc56-44c6-b252-cc79f7ba72c2",
+      "Properties": {
+        "ImageID": 48020,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset41",
+      "ClassName": "PTImageAsset",
+      "ID": "dde69f6c-cb7c-456e-adec-fe319457b7a6",
+      "Properties": {
+        "ImageID": 48021,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset42",
+      "ClassName": "PTImageAsset",
+      "ID": "99d3a52a-e853-4700-a591-43cc52987c3d",
+      "Properties": {
+        "ImageID": 48019,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTImageAsset43",
+      "ClassName": "PTImageAsset",
+      "ID": "998aa240-752b-476f-9ec8-7360417f5ff9",
+      "Properties": {
+        "ImageID": 48022,
+        "ImageType": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    }
+  ]
+}

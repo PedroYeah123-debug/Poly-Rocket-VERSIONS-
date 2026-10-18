@@ -1,0 +1,492 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "ungroup me",
+      "ClassName": "Model",
+      "ID": "e1e43a58-f6bb-4949-abaf-1fc1e4dbbf07",
+      "Properties": {
+        "LocalPosition": [
+          0,
+          0,
+          0
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "doorsmallauto",
+          "ClassName": "Model",
+          "ID": "301a0935-eb15-4d5d-b93c-a78883c0c968",
+          "Properties": {
+            "LocalPosition": [
+              0,
+              0,
+              0
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1,
+              1,
+              1
+            ],
+            "Tags": []
+          },
+          "Children": [
+            {
+              "Name": "doorframe",
+              "ClassName": "Model",
+              "ID": "b99cc70f-7bf2-4a86-ab02-f5e91c63f8cd",
+              "Properties": {
+                "LocalPosition": [
+                  0,
+                  1,
+                  0
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  1,
+                  1,
+                  1
+                ],
+                "Tags": []
+              },
+              "Children": [
+                {
+                  "Name": "trimbottom",
+                  "ClassName": "Part",
+                  "ID": "ad8d5d55-bda9-428a-b9fb-3b7a7feb2f61",
+                  "Properties": {
+                    "Material": 13,
+                    "Color": "828282ff",
+                    "Velocity": [
+                      -0,
+                      0,
+                      0
+                    ],
+                    "AngularVelocity": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "Anchored": true,
+                    "CanCollide": true,
+                    "CollisionLayers": 1,
+                    "CollisionMask": 1,
+                    "LocalPosition": [
+                      0,
+                      -4,
+                      0
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      3,
+                      1,
+                      7
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                },
+                {
+                  "Name": "trimtop",
+                  "ClassName": "Part",
+                  "ID": "129d6982-b0e5-474c-8f59-da2f98ec5375",
+                  "Properties": {
+                    "Material": 13,
+                    "Color": "828282ff",
+                    "Velocity": [
+                      -0,
+                      0,
+                      0
+                    ],
+                    "AngularVelocity": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "Anchored": true,
+                    "CanCollide": true,
+                    "CollisionLayers": 1,
+                    "CollisionMask": 1,
+                    "LocalPosition": [
+                      0,
+                      4,
+                      0
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      3,
+                      1,
+                      7
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                },
+                {
+                  "Name": "trimright",
+                  "ClassName": "Part",
+                  "ID": "5c64d9ce-a8ca-4af9-bc0b-c9c13b05a866",
+                  "Properties": {
+                    "Material": 13,
+                    "Color": "828282ff",
+                    "Velocity": [
+                      -0,
+                      0,
+                      0
+                    ],
+                    "AngularVelocity": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "Anchored": true,
+                    "CanCollide": true,
+                    "CollisionLayers": 1,
+                    "CollisionMask": 1,
+                    "LocalPosition": [
+                      0,
+                      0,
+                      -3
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      3,
+                      7,
+                      1
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                },
+                {
+                  "Name": "trimleft",
+                  "ClassName": "Part",
+                  "ID": "ca2ac4c6-bb54-42dc-8bc5-cc39c74e0dcb",
+                  "Properties": {
+                    "Material": 13,
+                    "Color": "828282ff",
+                    "Velocity": [
+                      -0,
+                      0,
+                      0
+                    ],
+                    "AngularVelocity": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "Anchored": true,
+                    "CanCollide": true,
+                    "CollisionLayers": 1,
+                    "CollisionMask": 1,
+                    "LocalPosition": [
+                      0,
+                      0,
+                      3
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      3,
+                      7,
+                      1
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                }
+              ],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            },
+            {
+              "Name": "doorscript",
+              "ClassName": "ServerScript",
+              "ID": "31236d12-f500-4291-a27b-f8ea3c54ae38",
+              "Properties": {
+                "IsEnabled": true,
+                "LinkedScript": "59f80497-2391-4e6b-827a-8b0fa4dcf060",
+                "Compatibility": true,
+                "Tags": []
+              },
+              "Children": [],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            },
+            {
+              "Name": "door",
+              "ClassName": "Part",
+              "ID": "ae3a06b2-e504-4eeb-8728-a1737a915937",
+              "Properties": {
+                "Material": 13,
+                "Color": "e2e2e2ff",
+                "Velocity": [
+                  -0,
+                  0,
+                  0
+                ],
+                "AngularVelocity": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "Anchored": true,
+                "CanCollide": true,
+                "CollisionLayers": 1,
+                "CollisionMask": 1,
+                "LocalPosition": [
+                  0,
+                  1,
+                  0
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  1,
+                  7,
+                  5
+                ],
+                "Tags": []
+              },
+              "Children": [
+                {
+                  "Name": "doorOpenScript",
+                  "ClassName": "ServerScript",
+                  "ID": "3880e868-c236-47f4-96fa-7d6fe1544e25",
+                  "Properties": {
+                    "IsEnabled": true,
+                    "LinkedScript": "3890c5ce-9f25-402d-a1b8-4de0aca6e7e1",
+                    "Compatibility": true,
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                }
+              ],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            },
+            {
+              "Name": "doorLight",
+              "ClassName": "Part",
+              "ID": "bbe26293-0c3a-48fc-95cf-28e464a2f459",
+              "Properties": {
+                "Material": 13,
+                "Color": "c4281cff",
+                "Velocity": [
+                  -0,
+                  0,
+                  0
+                ],
+                "AngularVelocity": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "Anchored": true,
+                "CanCollide": false,
+                "CollisionLayers": 1,
+                "CollisionMask": 1,
+                "LocalPosition": [
+                  0,
+                  5,
+                  0
+                ],
+                "LocalRotation": [
+                  270,
+                  -270,
+                  -0
+                ],
+                "LocalSize": [
+                  2,
+                  4,
+                  0.5
+                ],
+                "Tags": []
+              },
+              "Children": [],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            }
+          ],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "SFX",
+          "ClassName": "Folder",
+          "ID": "66a591da-c618-4843-8e1c-b01db73c3725",
+          "Properties": {
+            "Tags": []
+          },
+          "Children": [
+            {
+              "Name": "openSound",
+              "ClassName": "Sound",
+              "ID": "aca56fd1-48d5-44ae-bacf-cd7fa4f9c24d",
+              "Properties": {
+                "Audio": "9a2b84d7-3330-43ca-8b0e-4dbbbc4f0ccb",
+                "Volume": 1,
+                "Pitch": 1,
+                "Pan": 0,
+                "Autoplay": false,
+                "Loop": false,
+                "LoopStart": 0,
+                "PlayInWorld": true,
+                "Paused": false,
+                "MaxDistance": 40,
+                "AttenuationMode": 0,
+                "LocalPosition": [
+                  -19.5,
+                  1.5,
+                  16
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  4,
+                  1,
+                  2
+                ],
+                "Tags": []
+              },
+              "Children": [],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            },
+            {
+              "Name": "closeSound",
+              "ClassName": "Sound",
+              "ID": "d35554c8-3716-4422-91f1-f53dbb0ff88c",
+              "Properties": {
+                "Audio": "057c75f6-5bc8-4b10-885e-496109b75a45",
+                "Volume": 1,
+                "Pitch": 1,
+                "Pan": 0,
+                "Autoplay": false,
+                "Loop": false,
+                "LoopStart": 0,
+                "PlayInWorld": true,
+                "Paused": false,
+                "MaxDistance": 40,
+                "AttenuationMode": 0,
+                "LocalPosition": [
+                  -19.5,
+                  1.5,
+                  16
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  4,
+                  1,
+                  2
+                ],
+                "Tags": []
+              },
+              "Children": [],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            }
+          ],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "README",
+          "ClassName": "ServerScript",
+          "ID": "d7c9fed6-3df9-48b6-979a-999c00943a9e",
+          "Properties": {
+            "IsEnabled": true,
+            "LinkedScript": "6ee0848d-bc2a-46f4-9c82-e0361b0689f3",
+            "Compatibility": true,
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "5376b1bb-1634-4180-b4e7-122683aeda06",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": [
+    {
+      "Name": "PTAudioAsset37",
+      "ClassName": "PTAudioAsset",
+      "ID": "9a2b84d7-3330-43ca-8b0e-4dbbbc4f0ccb",
+      "Properties": {
+        "AudioID": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    },
+    {
+      "Name": "PTAudioAsset38",
+      "ClassName": "PTAudioAsset",
+      "ID": "057c75f6-5bc8-4b10-885e-496109b75a45",
+      "Properties": {
+        "AudioID": 0
+      },
+      "Children": [],
+      "LinkedModel": null,
+      "IsLinkedChild": false
+    }
+  ]
+}

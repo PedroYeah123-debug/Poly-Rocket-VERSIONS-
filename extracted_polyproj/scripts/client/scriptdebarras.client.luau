@@ -1,0 +1,13 @@
+local ui = script.Parent
+local barraE = Instance.new("Part")
+barraE.Color = Color3.fromRGB(0,0,0)
+barraE.BorderSizePixel = 0
+barraE.PositionRelative = Vector2.new(0,0)
+barraE.SizeRelative = Vector2.new(0.15,1)
+barraE.Parent = ui
+local barraD = Instance.new("Part")
+barraD.Color = Color3.fromRGB(0,0,0)
+barraD.BorderSizePixel = 0
+barraD.PositionRelative = Vector2.new(0.85,0)
+barraD.SizeRelative = Vector2.new(0.15,1)
+barraD.Parent = ui

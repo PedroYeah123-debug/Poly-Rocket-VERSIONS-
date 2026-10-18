@@ -1,0 +1,2829 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "Model",
+      "ClassName": "Model",
+      "ID": "3ebfb7e1-c7fd-411e-81d3-b3808cfaece8",
+      "Properties": {
+        "LocalPosition": [
+          -97.5,
+          28,
+          -145
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "Model",
+          "ClassName": "Model",
+          "ID": "b879d87c-716e-4936-8aa2-4499a9258a5c",
+          "Properties": {
+            "LocalPosition": [
+              97.5,
+              -23,
+              145
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1,
+              1,
+              1
+            ],
+            "Tags": []
+          },
+          "Children": [
+            {
+              "Name": "Model",
+              "ClassName": "Model",
+              "ID": "360c70ac-ebe5-4c71-8668-aeb0d1c2245f",
+              "Properties": {
+                "LocalPosition": [
+                  -131.5,
+                  23,
+                  94
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  1,
+                  1,
+                  1
+                ],
+                "Tags": []
+              },
+              "Children": [
+                {
+                  "Name": "Sphere",
+                  "ClassName": "Part",
+                  "ID": "aa4a226d-aaf2-4188-b45b-038752276695",
+                  "Properties": {
+                    "Shape": 1,
+                    "Material": 5,
+                    "Color": "83a362ff",
+                    "Velocity": [
+                      -0,
+                      0,
+                      0
+                    ],
+                    "AngularVelocity": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "Anchored": true,
+                    "CanCollide": true,
+                    "CollisionLayers": 1,
+                    "CollisionMask": 1,
+                    "LocalPosition": [
+                      0,
+                      0,
+                      0
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      49,
+                      50,
+                      52
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                },
+                {
+                  "Name": "Model",
+                  "ClassName": "Model",
+                  "ID": "6c2b7621-6f3f-43a4-908a-a3dbb1334c34",
+                  "Properties": {
+                    "LocalPosition": [
+                      243,
+                      -2,
+                      -95.5
+                    ],
+                    "LocalRotation": [
+                      0,
+                      -0,
+                      -0
+                    ],
+                    "LocalSize": [
+                      1,
+                      1,
+                      1
+                    ],
+                    "Tags": []
+                  },
+                  "Children": [
+                    {
+                      "Name": "Model",
+                      "ClassName": "Model",
+                      "ID": "80d13d3e-096d-4ba6-afd1-a93df9968d84",
+                      "Properties": {
+                        "LocalPosition": [
+                          -127.5,
+                          0,
+                          137
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          1,
+                          1,
+                          1
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "ea98a35c-2e78-47a5-933a-64235e80c341",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              -98.5,
+                              0,
+                              -6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "53ee53c1-2925-466f-a8db-82db6480ab0e",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              -21.5,
+                              0,
+                              6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "844ef0de-9eb8-4698-ba63-4ea268b8a766",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              -61.5,
+                              0,
+                              6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "77382ef9-c7cb-406b-a0e8-ff52bc3c7ee0",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              18.5,
+                              0,
+                              6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "caeb4872-8e78-46bf-b095-61beb110aa6b",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              58.5,
+                              0,
+                              6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Sphere",
+                          "ClassName": "Part",
+                          "ID": "92411b29-4e71-4590-ade1-8e8394826d92",
+                          "Properties": {
+                            "Shape": 1,
+                            "Material": 5,
+                            "Color": "83a362ff",
+                            "Velocity": [
+                              -0,
+                              0,
+                              0
+                            ],
+                            "AngularVelocity": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "Anchored": true,
+                            "CanCollide": true,
+                            "CollisionLayers": 1,
+                            "CollisionMask": 1,
+                            "LocalPosition": [
+                              98.5,
+                              0,
+                              6.5
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              49,
+                              50,
+                              52
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        },
+                        {
+                          "Name": "Model",
+                          "ClassName": "Model",
+                          "ID": "c4c735aa-3a20-47fe-bb93-d5451b8714fa",
+                          "Properties": {
+                            "LocalPosition": [
+                              -115.5,
+                              0,
+                              -109
+                            ],
+                            "LocalRotation": [
+                              0,
+                              -0,
+                              -0
+                            ],
+                            "LocalSize": [
+                              1,
+                              1,
+                              1
+                            ],
+                            "Tags": []
+                          },
+                          "Children": [
+                            {
+                              "Name": "Sphere",
+                              "ClassName": "Part",
+                              "ID": "d124543b-c3b8-4443-973d-ec602505be5d",
+                              "Properties": {
+                                "Shape": 1,
+                                "Material": 5,
+                                "Color": "83a362ff",
+                                "Velocity": [
+                                  -0,
+                                  0,
+                                  0
+                                ],
+                                "AngularVelocity": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "Anchored": true,
+                                "CanCollide": true,
+                                "CollisionLayers": 1,
+                                "CollisionMask": 1,
+                                "LocalPosition": [
+                                  0,
+                                  0,
+                                  -36.5
+                                ],
+                                "LocalRotation": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "LocalSize": [
+                                  49,
+                                  50,
+                                  52
+                                ],
+                                "Tags": []
+                              },
+                              "Children": [],
+                              "LinkedModel": null,
+                              "IsLinkedChild": true
+                            },
+                            {
+                              "Name": "Sphere",
+                              "ClassName": "Part",
+                              "ID": "6cf0b90c-cfb1-475f-b19b-55e000ce6017",
+                              "Properties": {
+                                "Shape": 1,
+                                "Material": 5,
+                                "Color": "83a362ff",
+                                "Velocity": [
+                                  -0,
+                                  0,
+                                  0
+                                ],
+                                "AngularVelocity": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "Anchored": true,
+                                "CanCollide": true,
+                                "CollisionLayers": 1,
+                                "CollisionMask": 1,
+                                "LocalPosition": [
+                                  0,
+                                  0,
+                                  -1.5
+                                ],
+                                "LocalRotation": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "LocalSize": [
+                                  49,
+                                  50,
+                                  52
+                                ],
+                                "Tags": []
+                              },
+                              "Children": [],
+                              "LinkedModel": null,
+                              "IsLinkedChild": true
+                            },
+                            {
+                              "Name": "Sphere",
+                              "ClassName": "Part",
+                              "ID": "e54da901-8055-4b36-8163-56f9231b3649",
+                              "Properties": {
+                                "Shape": 1,
+                                "Material": 5,
+                                "Color": "83a362ff",
+                                "Velocity": [
+                                  -0,
+                                  0,
+                                  0
+                                ],
+                                "AngularVelocity": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "Anchored": true,
+                                "CanCollide": true,
+                                "CollisionLayers": 1,
+                                "CollisionMask": 1,
+                                "LocalPosition": [
+                                  0,
+                                  0,
+                                  36.5
+                                ],
+                                "LocalRotation": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "LocalSize": [
+                                  49,
+                                  50,
+                                  52
+                                ],
+                                "Tags": []
+                              },
+                              "Children": [],
+                              "LinkedModel": null,
+                              "IsLinkedChild": true
+                            },
+                            {
+                              "Name": "Model",
+                              "ClassName": "Model",
+                              "ID": "daf838dd-4e39-44e1-8688-9a93d7cf9e59",
+                              "Properties": {
+                                "LocalPosition": [
+                                  7,
+                                  0,
+                                  -108.5
+                                ],
+                                "LocalRotation": [
+                                  0,
+                                  -0,
+                                  -0
+                                ],
+                                "LocalSize": [
+                                  1,
+                                  1,
+                                  1
+                                ],
+                                "Tags": []
+                              },
+                              "Children": [
+                                {
+                                  "Name": "Sphere",
+                                  "ClassName": "Part",
+                                  "ID": "cfe35ffe-ead9-4e92-8ba9-4cdc39ef2579",
+                                  "Properties": {
+                                    "Shape": 1,
+                                    "Material": 5,
+                                    "Color": "83a362ff",
+                                    "Velocity": [
+                                      -0,
+                                      0,
+                                      0
+                                    ],
+                                    "AngularVelocity": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "Anchored": true,
+                                    "CanCollide": true,
+                                    "CollisionLayers": 1,
+                                    "CollisionMask": 1,
+                                    "LocalPosition": [
+                                      -7,
+                                      0,
+                                      -7
+                                    ],
+                                    "LocalRotation": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "LocalSize": [
+                                      49,
+                                      50,
+                                      52
+                                    ],
+                                    "Tags": []
+                                  },
+                                  "Children": [],
+                                  "LinkedModel": null,
+                                  "IsLinkedChild": true
+                                },
+                                {
+                                  "Name": "Sphere",
+                                  "ClassName": "Part",
+                                  "ID": "e2c0773f-b076-4bc6-9bf6-9dc3c641f18e",
+                                  "Properties": {
+                                    "Shape": 1,
+                                    "Material": 5,
+                                    "Color": "83a362ff",
+                                    "Velocity": [
+                                      -0,
+                                      0,
+                                      0
+                                    ],
+                                    "AngularVelocity": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "Anchored": true,
+                                    "CanCollide": true,
+                                    "CollisionLayers": 1,
+                                    "CollisionMask": 1,
+                                    "LocalPosition": [
+                                      7,
+                                      0,
+                                      -35
+                                    ],
+                                    "LocalRotation": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "LocalSize": [
+                                      49,
+                                      50,
+                                      52
+                                    ],
+                                    "Tags": []
+                                  },
+                                  "Children": [],
+                                  "LinkedModel": null,
+                                  "IsLinkedChild": true
+                                },
+                                {
+                                  "Name": "Sphere",
+                                  "ClassName": "Part",
+                                  "ID": "e2b53e1c-d06d-468c-bcdd-68ebd8b16db7",
+                                  "Properties": {
+                                    "Shape": 1,
+                                    "Material": 5,
+                                    "Color": "83a362ff",
+                                    "Velocity": [
+                                      -0,
+                                      0,
+                                      0
+                                    ],
+                                    "AngularVelocity": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "Anchored": true,
+                                    "CanCollide": true,
+                                    "CollisionLayers": 1,
+                                    "CollisionMask": 1,
+                                    "LocalPosition": [
+                                      -7,
+                                      0,
+                                      35
+                                    ],
+                                    "LocalRotation": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "LocalSize": [
+                                      49,
+                                      50,
+                                      52
+                                    ],
+                                    "Tags": []
+                                  },
+                                  "Children": [],
+                                  "LinkedModel": null,
+                                  "IsLinkedChild": true
+                                },
+                                {
+                                  "Name": "Model",
+                                  "ClassName": "Model",
+                                  "ID": "93649472-9b9a-4d2f-986b-b4d7791d1016",
+                                  "Properties": {
+                                    "LocalPosition": [
+                                      119.5,
+                                      0,
+                                      -63
+                                    ],
+                                    "LocalRotation": [
+                                      0,
+                                      -0,
+                                      -0
+                                    ],
+                                    "LocalSize": [
+                                      1,
+                                      1,
+                                      1
+                                    ],
+                                    "Tags": []
+                                  },
+                                  "Children": [
+                                    {
+                                      "Name": "Sphere",
+                                      "ClassName": "Part",
+                                      "ID": "4f27f053-a36a-455c-ad79-fe96c78a1dec",
+                                      "Properties": {
+                                        "Shape": 1,
+                                        "Material": 5,
+                                        "Color": "83a362ff",
+                                        "Velocity": [
+                                          -0,
+                                          0,
+                                          0
+                                        ],
+                                        "AngularVelocity": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "Anchored": true,
+                                        "CanCollide": true,
+                                        "CollisionLayers": 1,
+                                        "CollisionMask": 1,
+                                        "LocalPosition": [
+                                          53.5,
+                                          0,
+                                          0
+                                        ],
+                                        "LocalRotation": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "LocalSize": [
+                                          49,
+                                          50,
+                                          52
+                                        ],
+                                        "Tags": []
+                                      },
+                                      "Children": [],
+                                      "LinkedModel": null,
+                                      "IsLinkedChild": true
+                                    },
+                                    {
+                                      "Name": "Sphere",
+                                      "ClassName": "Part",
+                                      "ID": "3aaa088c-b15f-4170-806c-0f9b7964f207",
+                                      "Properties": {
+                                        "Shape": 1,
+                                        "Material": 5,
+                                        "Color": "83a362ff",
+                                        "Velocity": [
+                                          -0,
+                                          0,
+                                          0
+                                        ],
+                                        "AngularVelocity": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "Anchored": true,
+                                        "CanCollide": true,
+                                        "CollisionLayers": 1,
+                                        "CollisionMask": 1,
+                                        "LocalPosition": [
+                                          19.5,
+                                          0,
+                                          0
+                                        ],
+                                        "LocalRotation": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "LocalSize": [
+                                          49,
+                                          50,
+                                          52
+                                        ],
+                                        "Tags": []
+                                      },
+                                      "Children": [],
+                                      "LinkedModel": null,
+                                      "IsLinkedChild": true
+                                    },
+                                    {
+                                      "Name": "Sphere",
+                                      "ClassName": "Part",
+                                      "ID": "9f69f380-3a0b-46c6-89d6-4d5174e5e6cd",
+                                      "Properties": {
+                                        "Shape": 1,
+                                        "Material": 5,
+                                        "Color": "83a362ff",
+                                        "Velocity": [
+                                          -0,
+                                          0,
+                                          0
+                                        ],
+                                        "AngularVelocity": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "Anchored": true,
+                                        "CanCollide": true,
+                                        "CollisionLayers": 1,
+                                        "CollisionMask": 1,
+                                        "LocalPosition": [
+                                          -18.5,
+                                          0,
+                                          0
+                                        ],
+                                        "LocalRotation": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "LocalSize": [
+                                          49,
+                                          50,
+                                          52
+                                        ],
+                                        "Tags": []
+                                      },
+                                      "Children": [],
+                                      "LinkedModel": null,
+                                      "IsLinkedChild": true
+                                    },
+                                    {
+                                      "Name": "Model",
+                                      "ClassName": "Model",
+                                      "ID": "bff77fe5-b549-4142-9ef1-4f88f31ddb99",
+                                      "Properties": {
+                                        "LocalPosition": [
+                                          7.5,
+                                          -7,
+                                          146
+                                        ],
+                                        "LocalRotation": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "LocalSize": [
+                                          1,
+                                          1,
+                                          1
+                                        ],
+                                        "Tags": []
+                                      },
+                                      "Children": [
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "ce255674-d5da-4062-9689-65d124e4ece6",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              88.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "465cf488-edb1-4010-ac3f-6ca15833b1c0",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              40.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "95276c59-397f-456e-b7f7-5f3c57822171",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              -56.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "3edde16e-ecdb-44f6-bb7f-ec33f3891a7e",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              -84.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "2a456471-8f6a-4047-962c-2713bcff9c79",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              65.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "49e9006c-627e-44ce-8362-c88bade3dc94",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              15.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "188bf4f7-237f-449d-a74a-77421a6da86d",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              -28.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "ecb920b1-5ba1-48a0-822e-0a06e02b3838",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              0.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "2ff8aeb8-200b-47e7-a8fb-1ae0ced3cd5e",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -8.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "2b3b8ffc-80d1-43d4-a4c6-b878b738af94",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              28.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "dfb47641-68ac-4767-ab69-a798bf653c97",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -32.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "51eaee01-9e50-4db9-bc20-3da8e5b06f3c",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              55.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "905b3654-ac42-45e7-8c0b-9c46c4838e3c",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -56.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "ff0ca58c-d058-49fb-8b6e-5f9522f0b746",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              83.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "38269a14-261c-459b-99eb-562206ed2f82",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -81.5,
+                                              0,
+                                              -112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Brick",
+                                          "ClassName": "Part",
+                                          "ID": "bf8345a8-25b7-4aff-ab1c-7ede46ed75d8",
+                                          "Properties": {
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -2.5,
+                                              -8.5,
+                                              -1
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              199.9999,
+                                              1,
+                                              200
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "3f710470-c758-409d-a6cb-594d509c07e0",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              61.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "398aafdf-b505-4a55-b832-293303b95b1e",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              40.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "5e60e366-0fd3-4ba7-a95b-4770fb4bb18e",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              19.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "66745ade-0220-41b2-8218-891e6fb96b13",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              107.5,
+                                              0,
+                                              108.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "5dd60c25-cb21-4e46-ab4c-c4740bc99a4b",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              82.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "b7b87829-2fb4-40fa-b4ca-fa6563e4e2bd",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -1.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "9d028c80-129b-480d-aa40-cae43eaaaa10",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -22.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "a08a0df4-39f1-4606-b3c0-59e37d751e23",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              -62.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "bb748bc1-6b6e-4014-a6ec-e84171c1c8b6",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              -91.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "8894fe48-fb08-4591-af67-e4438b83cfc6",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              31.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "7db5db20-6f14-4f81-bd63-a6e5f8b7138c",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -43.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "b74bc691-9031-4978-862f-4d41cd023281",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              -0.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "3b403d41-f52a-4985-bad9-697eb9067b4a",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              -32.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "e9b10446-34ad-4575-a07a-db402e62a033",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -64.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "c1fb56ba-e0e8-4095-8a72-774c6ab9cf75",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              62.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "ea1e7f2b-f9be-4f70-8b53-1e4964d184fc",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -85.5,
+                                              0,
+                                              112.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        },
+                                        {
+                                          "Name": "Sphere",
+                                          "ClassName": "Part",
+                                          "ID": "3897d2df-1446-44c1-8083-4db9b05610c0",
+                                          "Properties": {
+                                            "Shape": 1,
+                                            "Material": 5,
+                                            "Color": "83a362ff",
+                                            "Velocity": [
+                                              -0,
+                                              0,
+                                              0
+                                            ],
+                                            "AngularVelocity": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "Anchored": true,
+                                            "CanCollide": true,
+                                            "CollisionLayers": 1,
+                                            "CollisionMask": 1,
+                                            "LocalPosition": [
+                                              -107.5,
+                                              0,
+                                              96.5
+                                            ],
+                                            "LocalRotation": [
+                                              0,
+                                              -0,
+                                              -0
+                                            ],
+                                            "LocalSize": [
+                                              38,
+                                              32,
+                                              41
+                                            ],
+                                            "Tags": []
+                                          },
+                                          "Children": [],
+                                          "LinkedModel": null,
+                                          "IsLinkedChild": true
+                                        }
+                                      ],
+                                      "LinkedModel": null,
+                                      "IsLinkedChild": true
+                                    },
+                                    {
+                                      "Name": "Sphere",
+                                      "ClassName": "Part",
+                                      "ID": "98e2ad86-898e-4e0b-bf8c-3bb4655c9de4",
+                                      "Properties": {
+                                        "Shape": 1,
+                                        "Material": 5,
+                                        "Color": "83a362ff",
+                                        "Velocity": [
+                                          -0,
+                                          0,
+                                          0
+                                        ],
+                                        "AngularVelocity": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "Anchored": true,
+                                        "CanCollide": true,
+                                        "CollisionLayers": 1,
+                                        "CollisionMask": 1,
+                                        "LocalPosition": [
+                                          -53.5,
+                                          0,
+                                          0
+                                        ],
+                                        "LocalRotation": [
+                                          0,
+                                          -0,
+                                          -0
+                                        ],
+                                        "LocalSize": [
+                                          49,
+                                          50,
+                                          52
+                                        ],
+                                        "Tags": []
+                                      },
+                                      "Children": [],
+                                      "LinkedModel": null,
+                                      "IsLinkedChild": true
+                                    }
+                                  ],
+                                  "LinkedModel": null,
+                                  "IsLinkedChild": true
+                                }
+                              ],
+                              "LinkedModel": null,
+                              "IsLinkedChild": true
+                            }
+                          ],
+                          "LinkedModel": null,
+                          "IsLinkedChild": true
+                        }
+                      ],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "76a11c59-56a0-4091-bf7d-2f80fbd64a55",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          8,
+                          0,
+                          143.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "ee076910-167e-47ba-9219-dcc40a541a8d",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          111.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "9f9075ca-e373-4ead-9563-59a9e1048112",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          70.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "5c72cc8c-fc43-4c86-98fa-798f120fcbf7",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          27.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "bb0a04cc-8bbb-4ae8-83d0-323bc3c86241",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          -28,
+                          0,
+                          -143.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "c9d2596b-466e-4d22-ba8c-88ccc5a81574",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          -16.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "8b99754a-d5fd-4705-9169-4fa49ccfe566",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          -54.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "5812e4b7-9f34-420f-bb53-c43f5dea6f11",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          6,
+                          0,
+                          -123.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    },
+                    {
+                      "Name": "Sphere",
+                      "ClassName": "Part",
+                      "ID": "b7ee8340-9ff9-4219-a9c5-2214ed95a1c1",
+                      "Properties": {
+                        "Shape": 1,
+                        "Material": 5,
+                        "Color": "83a362ff",
+                        "Velocity": [
+                          -0,
+                          0,
+                          0
+                        ],
+                        "AngularVelocity": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "Anchored": true,
+                        "CanCollide": true,
+                        "CollisionLayers": 1,
+                        "CollisionMask": 1,
+                        "LocalPosition": [
+                          28,
+                          0,
+                          -97.5
+                        ],
+                        "LocalRotation": [
+                          0,
+                          -0,
+                          -0
+                        ],
+                        "LocalSize": [
+                          49,
+                          50,
+                          52
+                        ],
+                        "Tags": []
+                      },
+                      "Children": [],
+                      "LinkedModel": null,
+                      "IsLinkedChild": true
+                    }
+                  ],
+                  "LinkedModel": null,
+                  "IsLinkedChild": true
+                }
+              ],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            }
+          ],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Sphere",
+          "ClassName": "Part",
+          "ID": "4dd577c4-dca3-4452-8d4c-dd61cf817cff",
+          "Properties": {
+            "Shape": 1,
+            "Material": 5,
+            "Color": "83a362ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              0,
+              0
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              49,
+              50,
+              52
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "5c379ad5-d107-48fa-b159-88ffe377f8e3",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": []
+}

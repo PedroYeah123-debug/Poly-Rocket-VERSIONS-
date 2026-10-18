@@ -1,0 +1,145 @@
+{
+  "Version": "2.0.21",
+  "FileType": 1,
+  "Objects": [
+    {
+      "Name": "MapTemplate",
+      "ClassName": "Model",
+      "ID": "801fb763-81a6-4281-8bd3-02fd65076e09",
+      "Properties": {
+        "LocalPosition": [
+          -2227.5,
+          49,
+          56.5
+        ],
+        "LocalRotation": [
+          0,
+          -0,
+          -0
+        ],
+        "LocalSize": [
+          1,
+          1,
+          1
+        ],
+        "Tags": []
+      },
+      "Children": [
+        {
+          "Name": "Spawn",
+          "ClassName": "Model",
+          "ID": "cfb48b48-f71a-4d21-8eb5-24e4ed24755c",
+          "Properties": {
+            "LocalPosition": [
+              0,
+              -15,
+              -0.5
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              1,
+              1,
+              1
+            ],
+            "Tags": []
+          },
+          "Children": [
+            {
+              "Name": "Brick",
+              "ClassName": "Part",
+              "ID": "bf5fdea6-a602-4e75-a8d9-06e207d03110",
+              "Properties": {
+                "Color": "79510000",
+                "Velocity": [
+                  -0,
+                  0,
+                  0
+                ],
+                "AngularVelocity": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "AngularDrag": 0.05,
+                "Anchored": true,
+                "CanCollide": false,
+                "CollisionLayers": 1,
+                "CollisionMask": 1,
+                "LocalPosition": [
+                  -36,
+                  21,
+                  -42
+                ],
+                "LocalRotation": [
+                  0,
+                  -0,
+                  -0
+                ],
+                "LocalSize": [
+                  1,
+                  1,
+                  1
+                ],
+                "Tags": []
+              },
+              "Children": [],
+              "LinkedModel": null,
+              "IsLinkedChild": true
+            }
+          ],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        },
+        {
+          "Name": "Ground",
+          "ClassName": "Part",
+          "ID": "f22ef91c-1d81-4889-addc-82336c67afd5",
+          "Properties": {
+            "Color": "795100ff",
+            "Velocity": [
+              -0,
+              0,
+              0
+            ],
+            "AngularVelocity": [
+              0,
+              -0,
+              -0
+            ],
+            "AngularDrag": 0.05,
+            "Anchored": true,
+            "CanCollide": true,
+            "CollisionLayers": 1,
+            "CollisionMask": 1,
+            "LocalPosition": [
+              0,
+              -7,
+              -0.5
+            ],
+            "LocalRotation": [
+              0,
+              -0,
+              -0
+            ],
+            "LocalSize": [
+              111,
+              4,
+              111
+            ],
+            "Tags": []
+          },
+          "Children": [],
+          "LinkedModel": null,
+          "IsLinkedChild": true
+        }
+      ],
+      "LinkedModel": "b2c3a9c7-f0a6-4b27-a5e7-716637dfc127",
+      "IsLinkedChild": false
+    }
+  ],
+  "NonInstanceObjects": []
+}
